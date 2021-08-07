@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+div.inline {
+  display: inline-block;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li:before {
+  content: ''
+}
+
+.delete-container {
+  position: relative;
+}
+
+.delete-button {
+  position: absolute;
+  top: 5px;
+  right: 8px;
+  cursor: pointer;
+  font-size: 22px;
+}
