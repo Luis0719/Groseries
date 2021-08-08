@@ -11,7 +11,7 @@ ul {
 }
 
 ul li:before {
-  content: ''
+  content: "";
 }
 
 .delete-container {
