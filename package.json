@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint .",
+    "lint-staged": "lint-staged",
     "prettier": "prettier . --write --ignore-unknown",
     "prepare-husky": "husky install"
   },
